@@ -1,0 +1,42 @@
+body{
+	color: #333333;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	}
+	
+p{text-align:right;
+}
+p {line-height: 3px; /* tamanho da altura de cada linha */letter-spacing: 3px; /* tamanho do espaço entre cada letra */word-spacing: 5px; /* tamanho do espaço entre cada palavra */text-indent: 30px; /* tamanho da margem da primeira linha do texto */}
+h1 {background-image: url(sobre-background.jpg);}
+body{border-color: red;border-style: solid;border-width: 1px;}
+body{border: 1px solidred;}
+body{color: #333333;font-family: "Lucida SansUnicode", "Lucida Grande", sans-serif;}
+body {
+		margin-left:auto,
+		margin-right:auto,
+		width: 940px;
+}
+		
+h1 {background-image: url(img/sobre-background.jpg);}h2 {border-bottom: 2px solid#333333;}
+figure {background-color: #F2EDED;border: 1px solid#ccc;text-align: center;}figcaption{font-style: italic;}
+----------------------------------------------------------------------------------------------------------------
+.sacola {
+		backgound-image: url(img/sacola.png);
+		background-repeat: no-repear;
+		background-position: top right;
+		font- size: 14px;
+		padding-right: 35px;
+		text-align: right;
+		width: 140px;
+		
+		}
+		
+.menu-opcoes ul {
+		font-size: 15px;
+		
+		}
+
+.menu-opcoes a {
+		color: #003366;
+		
+		}
+		
